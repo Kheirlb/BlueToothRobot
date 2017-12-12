@@ -2,7 +2,6 @@ import sys
 from PyQt5 import QtWidgets, QtGui
 #import bluetooth
 
-
 def window():
         app = QtWidgets.QApplication(sys.argv)
         w = QtWidgets.QWidget()
