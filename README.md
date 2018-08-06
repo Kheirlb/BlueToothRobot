@@ -4,3 +4,9 @@ P.S. I am terrible at using github.
 
 Socket/Bluetooth Tutorial:
 http://blog.kevindoran.co/bluetooth-programming-with-python-3/
+
+## Log:
+
+8/5/18
+
+Finally restarting this project!
