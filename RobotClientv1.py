@@ -4,6 +4,7 @@ from PyQt5.QtGui import QTextCursor
 qtCreatorFile = "rawUI_v1.ui"  # Enter file here.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
+#test change
 
 class Window(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self):
